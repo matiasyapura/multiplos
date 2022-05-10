@@ -1,2 +1,2 @@
-# multiplos
+# practica
 Created with CodeSandbox
